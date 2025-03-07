@@ -1,1 +1,1 @@
-city_name : chennai
+city_name : None

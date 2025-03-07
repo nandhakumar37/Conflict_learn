@@ -1,1 +1,1 @@
-city_name : None
+city_name : coimbatore
